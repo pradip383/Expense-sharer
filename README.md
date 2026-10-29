@@ -73,18 +73,10 @@ Split expenses with friends, track balances, chat inside groups, and get realtim
 - Frontend → Vercel  
 - Backend → Render  
 
----
+--- 
 
-##License
-
-This project is licensed under the MIT License — see the LICENSE file for details
-
-## 👤 Author  
-
-*Yash Kumar Singh*  
-
-- GitHub: [coder40425](https://github.com/coder40425)  
-- LinkedIn: [Yash Kumar Singh](https://www.linkedin.com/in/yash-kumar-singh-dev)
+- GitHub: [pradip383](https://github.com/pradip383)  
+- LinkedIn: [Pradip Gorai](www.linkedin.com/in/pradip-gorai-48ba80371)
 
 ### Clone the repo  
 
